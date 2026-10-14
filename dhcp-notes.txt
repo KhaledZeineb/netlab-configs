@@ -1,0 +1,3 @@
+DHCP - Reseau invite
+Plage : 192.168.20.100 - 192.168.20.200
+Passerelle : 192.168.20.1
